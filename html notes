@@ -1,0 +1,42 @@
+. means current folder.---->in cmd uyou can write code.
+what is Html?
+HTML:HyperText MarkUp languge.Html is used to Devolp Skeleton/Structure of the page.Html uses tags for devolping.
+HtML Started from GML=SGML=HTMl;
+HTML was started in 1992.
+Current version of HTML is  HTML5.
+HtML tags will have opening  and closing
+<tagname>---open tag
+</tagname>-----close tag.
+Whole HTML code will be between open html tag and close html tag.
+html code will have head and body.
+head  tag is used for meta data.
+To build a website/to code,you need a code editor.
+There are so many code editors in market which u vcan check your code is perfect or not.
+formatting tags:  used to format the text
+for bold text we  use b tag..... b means bold <b></b>
+for bold we can also use strong tag.....<strong></strong>
+But the difference is SEO takes strong as very emphasing tag.
+<i></i>.......Italic is for italian style, and em.......... <em></em> tag also used for italian style .But difference is about SEO.
+u tag for underline<i></i>
+<em></em> for emphasis in italian style for SEO.
+del for deletion that is strike through<del></del>
+<sub></sub>   for sub script
+<sup></sup> for superscript
+<br></br> to break into new line.
+how many br used that many br"s will come
+br is a self closing tag.
+<br><br/> recomandle....... to use for reacy engine Understabaility.
+Self closing line needs closing tags  / at end;
+<hr> </hr> for horizontal line. it is a self closing tag.
+if we want to use so many br"s we can use
+<pre>  pre means pre formatted text use to bring pre formatted data
+    lknfkmflm
+    lfnkfk
+    fjkfk
+
+</pre>
+pre consider spaces.
+<ins></ins> used to make text get underlined but means inserted text to SEO.
+inside a paragraph we can use anger tag <a></a>.and any tags.
+GitHub:
+github is an online platform(website)used to deploy,shareand maintain the code.

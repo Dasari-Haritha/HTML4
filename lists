@@ -1,0 +1,36 @@
+Lists:list are used to list certain elements;
+Html cotaind=s 3 types of lists.
+A.Orederd list:Lists of items where  order is important
+Eg:1.rohit
+2.raj
+3.sekhar
+B.Unorded list: List of items where order is not important
+eg: skills:
+.skill1
+.skill2
+.skill3etc..,
+C.decsription list:
+list of events or reference mentioned with reference
+eg: A company growth
+1995-2000:
+cpmpant established
+2001-2010
+company went well
+2011-2023
+comapany got success
+2024
+company bankrupt
+li means list items<li></li>
+<ol>
+    <li>xyz</li>
+    <li>abc</li>
+</ol>
+output
+1.xyz
+2.abc
+you can also type
+
+tables:
+tables are used to create data in simpler format.
+tables deail with rows and colouunms
+
